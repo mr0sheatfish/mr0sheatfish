@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=open+sense&size=18&duration=7000&color=00F74A&background=0900FF00&center=true&vCenter=true&lines=Hello+there.)](https://git.io/typing-svg)
 
 <!--
 **mr0sheatfish/mr0sheatfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
